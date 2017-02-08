@@ -15,4 +15,4 @@ mod 'enterprisemodules-em_utils', git: 'git@github.com:enterprisemodules/em_util
 #mod 'petems-swap_file',              '3.0.2'
 #mod 'fiddyspence-puppet-sysctl',            '1.1.0'
 #mod 'erwbgy-puppet-limits',                 '0.3.0'
-mod 'puppet-timezone', git: 'git@github.com:saz/puppet-timezone.git', tag: '3.4.0'
+mod 'puppet-timezone', git: 'git@github.com:saz/puppet-timezone.git', tag: 'v3.4.0'
