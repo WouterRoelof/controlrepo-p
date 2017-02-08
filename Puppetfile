@@ -5,7 +5,7 @@ mod 'puppetlabs-concat',            '1.2.5'
 mod 'enterprisemodules-em_utils', git: 'git@github.com:enterprisemodules/em_utils.git', tag: 'v1.0.1'
 #mod 'enterprisemodules-ora_install', git: 'git@forge.enterprisemodules.com/enterprisemodules-ora_install', ref: 'v2.1.5'
 #forge "http://forge.enterprisemodules.com"
-mod 'ora_install',
+mod 'enterprisemodules/ora_install',
   :git => 'http://forge.enterprisemodules.com',
   :tag => 'v2.1.5'
 #mod 'enterprisemodules-em_utils',   '1.0.x'
